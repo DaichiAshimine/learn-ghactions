@@ -7,6 +7,6 @@ on:
 
 jobs:
   build:
-    runs-on: ubunts-lates
+    runs-on: ubuntu-latest
     steps:
       - run: echo hello world
